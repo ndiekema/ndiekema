@@ -1,7 +1,7 @@
 👋Hi, my name is Nathan Diekema.
 I graduated from California Polytechnic State University with a 
-degree in Electrical Engineering and a minor in Computer Science.
-I am now pursuing a Masters in Business Analytics at Cal Poly. 
+degree in Electrical Engineering and a minor in Computer Science in June 2021.
+I am now pursuing a Masters in Business Analytics at Cal Poly, set to graduate in June 2022. 
 I love to code and enjoy working on collaborative projects with my 
 peers. I'm interested in big data and how we can take advantage of
 advanced algorithms and machine learning in order to extract interesting
