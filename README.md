@@ -1,6 +1,6 @@
 # Hi, I'm Nathan Diekema
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nathandiekema/)](https://www.linkedin.com/in/nathandiekema/)
-[![Download](https://img.shields.io/badge/Download%20Resume-blue)](https://ndiekema.github.io/images/Nathan_Diekema_Resume.pdf)
+[![Download](https://img.shields.io/badge/Download-%20Resume-blue)](https://ndiekema.github.io/images/Nathan_Diekema_Resume.pdf)
 [![Website Badge](https://img.shields.io/badge/website-Access%20website-green)](https://ndiekema.github.io/)
 
 
