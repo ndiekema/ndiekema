@@ -1,3 +1,5 @@
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
 👋Hi, my name is Nathan Diekema.
 I graduated from California Polytechnic State University with a 
 B.S. in Electrical Engineering and a minor in Computer Science in June 2021.
