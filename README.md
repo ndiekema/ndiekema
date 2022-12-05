@@ -13,12 +13,12 @@ peers. I'm interested in big data, particularly how we can take advantage of
 machine learning and artificial intelligence to extract interesting insights.
 
 ### My Interests
-:cloud: Data Science
-:chart_with_upwards_trend: Machine Learning
-- Computer Vision
-- Natural Language Processing
-- Cloud Computing
-- Data Ethics
+- Data Science :bar_chart:
+- Machine Learning :brain:
+- Computer Vision :camera:
+- Natural Language Processing :bookmark_tabs:
+- Cloud Computing :cloud:
+- Data Ethics :thought_balloon:
 
 ### My Latest Certification(s)
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/120x120/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/3946fbbe-602d-4c1a-8d1c-3a370619ea5d?source=linked_in_profile)
