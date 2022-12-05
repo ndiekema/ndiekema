@@ -16,7 +16,7 @@ machine learning and artificial intelligence to extract interesting insights.
 - Data Science :bar_chart:
 - Machine Learning :brain:
 - Computer Vision :camera:
-- Natural Language Processing :bookmark_tabs:
+- Natural Language Processing :scroll:
 - Cloud Computing :cloud:
 - Data Ethics :thought_balloon:
 
