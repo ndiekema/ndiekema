@@ -21,7 +21,7 @@ machine learning and artificial intelligence to extract interesting insights.
 - Data Ethics
 
 ### My Latest Certification(s)
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/3946fbbe-602d-4c1a-8d1c-3a370619ea5d?source=linked_in_profile)
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/120x120/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/3946fbbe-602d-4c1a-8d1c-3a370619ea5d?source=linked_in_profile)
 
 <!---
 ndiekema/ndiekema is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
