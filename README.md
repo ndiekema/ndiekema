@@ -13,7 +13,7 @@ peers. I'm interested in big data, particularly how we can take advantage of
 machine learning and artificial intelligence to extract interesting insights.
 
 ### My Interests
-  :bar_chart: Data Science   
+&nbsp; :bar_chart: Data Science   
   :brain: Machine Learning  
   :camera: Computer Vision  
   :scroll: Natural Language Processing  
