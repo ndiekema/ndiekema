@@ -12,6 +12,17 @@ I love to code and enjoy working on collaborative projects with my
 peers. I'm interested in big data, particularly how we can take advantage of
 machine learning and artificial intelligence to extract interesting insights.
 
+### My Interests
+- Data Science
+- Machine Learning
+- Computer Vision
+- Natural Language Processing
+- Cloud Computing
+- Data Ethics
+
+### My Latest Certification(s)
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/3946fbbe-602d-4c1a-8d1c-3a370619ea5d?source=linked_in_profile)
+
 <!---
 ndiekema/ndiekema is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
