@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/Portfolio-Access%20Website-green)](https://ndiekema.github.io/)
 
 
-👋Hi, my name is Nathan Diekema.
+:wave:Hi, my name is Nathan Diekema.
 I graduated from California Polytechnic State University with a 
 B.S. in Electrical Engineering and a minor in Computer Science in June 2021.
 I more recently finished an M.S. in Business Analytics at Cal Poly, in June 2022. 
