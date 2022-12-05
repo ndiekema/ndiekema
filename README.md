@@ -14,7 +14,7 @@ machine learning and artificial intelligence to extract interesting insights.
 
 ### My Interests
 :cloud: Data Science
-- Machine Learning
+:chart_with_upwards_trend: Machine Learning
 - Computer Vision
 - Natural Language Processing
 - Cloud Computing
