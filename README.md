@@ -1,4 +1,4 @@
-![linkedin](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=LinkedIn&logoColor=blue)
+![linkedin](https://img.shields.io/badge/for-the-badge?style=for-the-badge&logo=LinkedIn&logoColor=white)
 
 👋Hi, my name is Nathan Diekema.
 I graduated from California Polytechnic State University with a 
